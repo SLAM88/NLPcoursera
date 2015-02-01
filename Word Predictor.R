@@ -1,4 +1,3 @@
-setwd("C:/Users/SLAM/Desktop/Johns Hopkins/CAPSTONE NLP/Coursera-SwiftKey/final/en_US")
 library(tm)
 library(RWeka)
 library(fastmatch)
